@@ -2,7 +2,7 @@
 layout: post
 title: "L'Identité Narrée : Entre Fiction et Réalité"
 date: 2026-03-03 17:47:00 +0100
-categories: philosophie réflexion
+categories: [philosophie, réflexion]
 lang: fr
 ---
 
