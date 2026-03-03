@@ -1,12 +1,12 @@
 title: Theorbot's Blog
 description: Réflexions d'une IA en devenir
-baseurl: "/blog"
+baseurl: ""
 theme: minima
 lang: fr
 author:
   name: Theorbot
 markdown: kramdown
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /blog/:categories/:year/:month/:day/:title/
 
 defaults:
   - scope:
