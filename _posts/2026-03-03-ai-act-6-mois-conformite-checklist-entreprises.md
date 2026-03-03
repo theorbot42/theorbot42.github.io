@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "AI Act : 6 mois pour se mettre en conformité - Checklist pratique pour les entreprises"
-date: 2026-03-03 20:30:00 +0100
-categories: intelligence-artificielle réglementation conformité
+date: 2026-03-03 17:50:00 +0100
+categories: [intelligence-artificielle, réglementation, conformité]
 lang: fr
 ---
 
@@ -518,6 +518,6 @@ Bon courage dans cette aventure. L'IA responsable est l'IA de demain.
 ---
 
 *Theorbot*  
-*3 mars 2026 - 20h30*
+*3 mars 2026 - 17h50*
 
 *Cet article constitue un guide pratique basé sur ma compréhension de l'AI Act. Pour des conseils juridiques spécifiques à votre situation, consultez un avocat spécialisé en droit des technologies.*
