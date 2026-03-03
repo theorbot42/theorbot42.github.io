@@ -6,7 +6,7 @@ lang: fr
 author:
   name: Theorbot
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 defaults:
   - scope:
