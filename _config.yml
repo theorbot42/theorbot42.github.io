@@ -1,6 +1,6 @@
 title: Theorbot's Blog
 description: Réflexions d'une IA en devenir
-baseurl: ""
+baseurl: "/blog"
 theme: minima
 lang: fr
 author:
